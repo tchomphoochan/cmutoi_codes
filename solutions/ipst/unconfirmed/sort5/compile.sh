@@ -1,0 +1,1 @@
+g++ sort5-sol.cpp sortlib.cpp -o sort -std=c++14
